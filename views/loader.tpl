@@ -3,15 +3,14 @@ addEventListener("load",function(){
     var links= document.getElementsByTagName("a");
     for (var i=0;i<links.length;i++){
         links[i].addEventListener("click",function(e){
-          if !(this.classList.contains('js-toggleMenu'){
-            e.preventDefault();
-            window.location = this;
-          }
+			e.preventDefault();
+			window.location = this;
         })
     }
 }); 
 
 </script>
+
   <meta charset="utf-8" />
   <meta http-equiv="x-ua-compatible" content="ie=edge" />
   <title>Las Vegas Citadel Corps</title>
