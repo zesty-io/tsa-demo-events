@@ -1,0 +1,7 @@
+<div className={styles.pvlRoot}>
+	{{ include /components/white-section-text }}
+	{{ include /components/photo-squares }}
+	{{include /components/meet-the-need-block}}
+	{{ include /components/contact-form }}
+	{{include /components/join-map-block}}
+</div>

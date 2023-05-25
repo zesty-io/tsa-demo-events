@@ -1,0 +1,21 @@
+
+  - id: "743d-2608-8e0f"
+    web:
+      metaDescription: ""
+      metaTitle: "Custom Event Item"
+      metaLinkText: "Custom Event Item"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 101
+      listed: true
+    data:
+      sort_order: 1
+      title: "Custom Event Item"
+      url: "https://www.zesty.io/"
