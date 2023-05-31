@@ -332,3 +332,30 @@
     dataType: "textarea"
     options: null
     tips: null
+ - category: "integrations"
+    key: "classy_c_id"
+    keyFriendly: "Classy C-ID"
+    value: ""
+    admin: false
+    parsleyAccess: true
+    dataType: "text"
+    options: null
+    tips: "Classy Campaign ID Value"
+  - category: "integrations"
+    key: "raisers_edge"
+    keyFriendly: "Raiser's Edge ID"
+    value: ""
+    admin: false
+    parsleyAccess: true
+    dataType: "text"
+    options: null
+    tips: "Raiser's Edge ID Value"
+  - category: "integrations"
+    key: "salesforce_id"
+    keyFriendly: "Salesforce ID"
+    value: ""
+    admin: false
+    parsleyAccess: true
+    dataType: "text"
+    options: null
+    tips: "Salesforce ID Value"
