@@ -1,3 +1,4 @@
+  
   - category: "general"
     key: "robots_on"
     keyFriendly: "Search Engine Crawlable?"
@@ -331,7 +332,7 @@
     dataType: "textarea"
     options: null
     tips: null
- - category: "integrations"
+  - category: "integrations"
     key: "classy_c_id"
     keyFriendly: "Classy C-ID"
     value: ""
